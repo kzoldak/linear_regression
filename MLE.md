@@ -1,0 +1,2 @@
+# Likelihood, $\mathcal{L}$
+The likelihood of the parameters. Or, the frequencey distribution for the observables evaluated at the observed data $y_i$. The likelihood is a function of both the data and the model parameters. 
